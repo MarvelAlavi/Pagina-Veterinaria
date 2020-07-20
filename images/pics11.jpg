@@ -1,0 +1,1018 @@
+<!DOCTYPE html>
+<html lang="es" prefix="og: http://ogp.me/ns#">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<link rel="preconnect" href="//static.ea.ltmcdn.com">
+<link rel="preconnect" href="//t1.ea.ltmcdn.com">
+<link rel="preconnect" href="//t2.ea.ltmcdn.com">
+<link rel="preconnect" href="//www.googletagservices.com">
+<link rel="preconnect" href="//www.google.com">
+<link rel="preconnect" href="//securepubads.g.doubleclick.net">
+<link rel="preconnect" href="//adservice.google.com">
+<link rel="preconnect" href="//c.amazon-adsystem.com">
+<link rel="preconnect" href="//bidder.criteo.com">
+<title>Consejos para educar perros</title> <meta name="description" content="Consejos para educar perros. Educar perros es una tarea sencilla cuando sabes cómo hacerlo y cuando no tratas de apurar las cosas. Sin embargo, educar a un perro te puede parecer una..."> <meta name="robots" content="all">
+<meta property="fb:app_id" content="997882166960819"/>
+<meta property="og:locale" content="es_ES"/>
+<meta property="og:site_name" content="expertoanimal.com"/>
+<meta property="og:url" content="https://www.expertoanimal.com/consejos-para-educar-perros-21112.html"/>
+<meta property="twitter:site" content="@experto_animal"/>
+<meta property="og:title" content="Consejos para educar perros"/>
+<meta property="og:description" content="Consejos para educar perros. Educar perros es una tarea sencilla cuando sabes cómo hacerlo y cuando no tratas de apurar las cosas. Sin embargo, educar a un perro te puede parecer una..."/>
+<meta property="og:image" content="https://t2.ea.ltmcdn.com/es/images/2/1/1/img_consejos_para_educar_perros_21112_600.jpg"/>
+<meta property="og:type" content="article"/>
+<meta property="twitter:card" content="summary_large_image"/>
+<link rel="canonical" href="https://www.expertoanimal.com/consejos-para-educar-perros-21112.html"/> <link rel="amphtml" href="https://www.expertoanimal.com/consejos-para-educar-perros-21112.html?amp=1"/>
+<meta name="ltm:project" content="expertoanimal">
+<meta name="ltm:domain" content="expertoanimal.com">
+<meta name="idhub" content="20">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="theme-color" content="#ff8868">
+<link href="https://static.ea.ltmcdn.com/css/css_expertoanimal_42.css" media="all" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+
+                    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+                    ga('create', 'UA-63515502-1', 'auto', {'useAmpClientId': true});
+                                        ga('send', 'pageview');
+
+                </script>
+<script>
+            (function(window, document) {
+                if (!window.__cmp) {
+                    window.__cmp = (function() {
+                        var listen = window.attachEvent || window.addEventListener;
+                        listen('message', function(event) {
+                            window.__cmp.receiveMessage(event);
+                        }, false);
+
+                        function addLocatorFrame() {
+                            if (!window.frames['__cmpLocator']) {
+                                if (document.body) {
+                                    var frame = document.createElement('iframe');
+                                    frame.style.display = 'none';
+                                    frame.name = '__cmpLocator';
+                                    document.body.appendChild(frame);
+                                } else {
+                                    setTimeout(addLocatorFrame, 5);
+                                }
+                            }
+                        }
+                        addLocatorFrame();
+
+                        var commandQueue = [];
+                        var cmp = function(command, parameter, callback) {
+                            if (command === 'ping') {
+                                if (callback) {
+                                    callback({
+                                        gdprAppliesGlobally: !!(window.__cmp && window.__cmp.config && window.__cmp.config.storeConsentGlobally),
+                                        cmpLoaded: false
+                                    });
+                                }
+                            } else {
+                                commandQueue.push({
+                                    command: command,
+                                    parameter: parameter,
+                                    callback: callback
+                                });
+                            }
+                        };
+                        cmp.commandQueue = commandQueue;
+                        cmp.receiveMessage = function(event) {
+                            var data = event && event.data && event.data.__cmpCall;
+                            if (data) {
+                                commandQueue.push({
+                                    callId: data.callId,
+                                    command: data.command,
+                                    parameter: data.parameter,
+                                    event: event
+                                });
+                            }
+                        };
+
+                        cmp.config={
+                            globalVendorListLocation: 'https://static.ea.ltmcdn.com/js/library/cmp/vendorlist-20180605.json',
+                            storeConsentGlobally: false,
+                            storePublisherData: false,
+                            //logging: 'debug',
+                            gdprApplies: true,
+                            forceLocale: document.documentElement.getAttribute('lang')
+                            //criteo 91, google 5 (temp), seedtag 157, adman 149, taboola 42, rubicon 52, appnexus 32, comscore 77, sublime 114, richaudience 108
+                            //allowedVendorIds: [91, 5, 157, 149, 42, 52, 32, 77, 114, 108]
+
+                        };
+                        return cmp;
+                    }());
+
+                    var t = document.createElement('script');
+                    t.async = false;
+                    t.src = 'https://static.ea.ltmcdn.com/js/library/cmp/cmp.bundle-20180619.js';
+                    var tag = document.getElementsByTagName('head')[0];
+                    tag.appendChild(t);
+                }
+            })(window, document);
+
+            cmpChecked = cmpCheckedAdded = false;
+            function checkCmp(callback) {
+                //console.log('[GDPR]checkcmp '+callback);
+                var x = setInterval(function() {
+                    if (!cmpChecked) {
+                        if (window.__cmp) {
+                            if (!cmpCheckedAdded) {
+                                cmpCheckedAdded = true;
+                                //console.log('[GDPR]Cmp getVendor');
+                                window.__cmp('getVendorConsents', null, function (vendorConsents) {
+                                    if (vendorConsents && vendorConsents.created) {
+                                        if (!cmpChecked) {
+                                            cmpChecked = true;
+                                            console.log('[GDPR]Cmp checked setinterval');
+                                        }
+                                    }
+                                });
+                            }
+                        }
+                    } else {
+                        //console.log('[GDPR]Cmp already checked');
+                        clearTimeout(timeout);
+                        clearInterval(x);
+                        callback();
+                    }
+                }, 200);
+
+                var timeout = window.setTimeout(function () {
+                    console.log('[GDPR]Cmp checked timeout');
+                    cmpChecked = true;
+                    clearInterval(x);
+                    callback();
+                }, 2000);
+            }
+
+        </script>
+<script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+<script>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+        </script>
+<script>
+            googletag.cmd.push(function() {
+                googletag.pubads().enableSingleRequest();
+                googletag.pubads().collapseEmptyDivs();
+                googletag.pubads().setTargeting('ltm-id', '21112').setTargeting('zone', 'Post').setTargeting('project', 'expertoanimal').setTargeting('lang', 'es').setTargeting('project-lang', 'expertoanimal-es');
+                googletag.pubads().disableInitialLoad();
+                googletag.enableServices();
+            });
+        </script>
+<script>
+            var prebids = [];
+            prebids['ltm_desktop_roba_1'] = [{ bidder: "rubicon", params: {accountId:"16598",siteId:"139432",zoneId:"652374"} },{ bidder: "criteo", params: {zoneId:"1242787"} }]
+                prebids['ltm_desktop_roba_2'] = [{ bidder: "rubicon", params: {accountId:"16598",siteId:"139432",zoneId:"652374"} },{ bidder: "criteo", params: {zoneId:"1242787"} }]
+                prebids['ltm_desktop_roba_3'] = [{ bidder: "rubicon", params: {accountId:"16598",siteId:"139432",zoneId:"652374"} },{ bidder: "criteo", params: {zoneId:"1242787"} }]
+                prebids['ltm_desktop_sky_1'] = [{ bidder: "rubicon", params: {accountId:"16598",siteId:"139432",zoneId:"652374"} },{ bidder: "criteo", params: {zoneId:"1242786"} }]
+                prebids['ltm_mobile_roba_1'] = [{ bidder: "rubicon", params: {accountId:"16598",siteId:"139338",zoneId:"652036"} },{ bidder: "criteo", params: {zoneId:"1242785"} }]
+                prebids['ltm_mobile_roba_2'] = [{ bidder: "rubicon", params: {accountId:"16598",siteId:"139338",zoneId:"652036"} },{ bidder: "criteo", params: {zoneId:"1242785"} }]
+                prebids['ltm_mobile_roba_3'] = [{ bidder: "rubicon", params: {accountId:"16598",siteId:"139338",zoneId:"652036"} },{ bidder: "criteo", params: {zoneId:"1242785"} }]
+                        </script>
+<script type="text/javascript" async src="//static.ea.ltmcdn.com/js/library/prebid/prebid_20180601115812.js"></script>
+<script>
+            var pbjs = pbjs || {};
+            pbjs.que = pbjs.que || [];
+            pbjs.bidderSettings = {
+                rubicon: {
+                    bidCpmAdjustment : function(bidCpm){
+                        return bidCpm * 0.84;
+                    }
+                }
+            };
+        </script>
+<script>
+            !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+            var apstag = apstag || {};
+            apstag.init({
+                pubID: 'a2951e5c-81d1-4de5-8cd6-475a5b9685fc',
+                adServer: 'googletag'
+            });
+        </script>
+<script async="async" src="https://www.google.com/adsense/search/ads.js"></script>
+<script type="text/javascript" charset="utf-8">
+            (function (g, o) {
+                g[o] = g[o] || function () {
+                        (g[o]['q'] = g[o]['q'] || []).push(
+                            arguments)
+                    }, g[o]['t'] = 1 * new Date
+            })(window, '_googCsa');
+        </script>
+</head>
+<body class="ctrl-post action-index ">
+<div class="container">
+<a name="top"></a>
+<div class="cerrar-menu"></div>
+<div class="menu" data-js-selector="menu">
+<div class="wrap-menu max_width clearfix" data-js-selector="status">
+<div class="descubre">
+<div class="table">
+<div class="centrar">Descubre</div>
+</div>
+</div>
+<div class="lista_menu">
+<div class="clear">
+<a class="ga actual" data-category="Header" data-event="Go to hub" data-label="20" href="https://www.expertoanimal.com/adiestramiento"><div class="hubicon hubicon--menu hubicon--adiestramiento"></div>Adiestramiento</a>
+<a class="ga" data-category="Header" data-event="Go to hub" data-label="1" href="https://www.expertoanimal.com/alimentacion"><div class="hubicon hubicon--menu hubicon--alimentacion"></div>Alimentación</a>
+<a class="ga" data-category="Header" data-event="Go to hub" data-label="42" href="https://www.expertoanimal.com/antes-de-adoptar"><div class="hubicon hubicon--menu hubicon--antes-de-adoptar"></div>Antes de adoptar</a>
+<a class="ga" data-category="Header" data-event="Go to hub" data-label="37" href="https://www.expertoanimal.com/belleza"><div class="hubicon hubicon--menu hubicon--belleza"></div>Belleza</a>
+<a class="ga" data-category="Header" data-event="Go to hub" data-label="25" href="https://www.expertoanimal.com/cuidados"><div class="hubicon hubicon--menu hubicon--cuidados"></div>Cuidados</a>
+<a class="ga" data-category="Header" data-event="Go to hub" data-label="50" href="https://www.expertoanimal.com/curiosidades"><div class="hubicon hubicon--menu hubicon--noticias-y-curiosidades"></div>Curiosidades</a>
+<a class="ga" data-category="Header" data-event="Go to hub" data-label="7" href="https://www.expertoanimal.com/salud"><div class="hubicon hubicon--menu hubicon--salud"></div>Salud</a>
+<a class="ga" data-category="Header" data-event="Go to hub" data-label="-4" href="https://www.expertoanimal.com/animales"><div class="hubicon hubicon--menu hubicon--animales"></div>Fichas de animales</a>
+</div>
+</div>
+</div> </div>
+<div class="main-content">
+<header>
+<div class="max_width align-center">
+<img class="hamburguesa" data-js-selector="menu-boton" onclick="$('.container').toggleClass('menu-abierto'); if($('.container').hasClass('menu-abierto')) GAevent('Header','Display menu');" src="https://static.ea.ltmcdn.com/img/web/menu.png">
+<a class="logo-default" href="https://www.expertoanimal.com"><img src="https://static.ea.ltmcdn.com/img/web/expertoanimal/logo/negativo/es.png" alt="Web de animales" class="logo ga" data-category="Header" data-event="go to home"></a>
+<div class="open-compartir" data-js-selector="open-compartir">Compartir</div>
+<form id="buscador" class="search-form" action="https://www.expertoanimal.com/busqueda" method="GET" onsubmit="if ($('#q').val().length < 3) { alert('Con tan poquito no podemos saber lo que quieres, haz una búsqueda más larga.'); $('#q').focus(); GAevent('Header', 'short search', $('#q').val()); return false; } else { GAevent('Header', 'search', $('#q').val()) }">
+<fieldset>
+<input name="q" id="q" data-js-selector="q" class="input text search" placeholder="¿Qué estás buscando?"><button type="button" class="button search" onclick="if($('#q').val() == '' || $('#q').val() == $('#q').data('q')){$('#q').focus()} else {$('#buscador').submit();}"><img src="https://static.ea.ltmcdn.com/img/web/lupa.png"><span>Buscar</span></button>
+</fieldset>
+</form>
+</div>
+</header>
+<div class="compartir share-off" data-js-selector="compartir">
+<div class="max_width">
+<span>Compartir en: </span><a href="http://www.facebook.com/sharer.php?u=https://www.expertoanimal.com/consejos-para-educar-perros-21112.html" class="social-icon facebook ga" rel="nofollow" data-js-selector="launch_popup" data-category="Post" data-event="share" data-label="facebook"></a><a href="http://twitter.com/share?original_referer=https://www.expertoanimal.com/consejos-para-educar-perros-21112.html&amp;text=Consejos para educar perros&amp;url=https://www.expertoanimal.com/consejos-para-educar-perros-21112.html&amp;via=experto_animal" class="social-icon twitter ga" rel="nofollow" data-js-selector="launch_popup" data-category="Post" data-event="share" data-label="twitter"></a><a href="http://pinterest.com/pin/create/button/?url=https://www.expertoanimal.com/consejos-para-educar-perros-21112.html&amp;media=https://t2.ea.ltmcdn.com/es/images/2/1/1/img_consejos_para_educar_perros_21112_600.jpg" class="social-icon pinterest ga" rel="nofollow" data-js-selector="launch_popup" data-category="Post" data-event="share" data-label="pinterest" data-pin-custom="true"></a><a href="https://wa.me/?text=Consejos para educar perros - https://www.expertoanimal.com/consejos-para-educar-perros-21112.html" class="social-icon whatsapp ga" rel="nofollow" data-js-selector="launch_popup" data-category="Post" data-event="share" data-label="whatsapp"></a><a href="https://www.expertoanimal.com/consejos-para-educar-perros-21112.html?print=1" class="social-icon imprimir ga" rel="nofollow" data-js-selector="launch_popup" data-category="Post" data-event="share" data-label="imprimir"></a><a href="https://www.expertoanimal.com/ajax/download/id_post/21112" class="social-icon descargar ga" rel="nofollow" data-js-selector="launch_popup" data-category="Post" data-event="share" data-label="descargar"></a>	</div>
+</div>
+<div class="header-gap">
+<ul class="breadcrumb">
+<li><a href="https://www.expertoanimal.com"><span>ExpertoAnimal</span></a></li>
+<li><a href="https://www.expertoanimal.com/adiestramiento"><span>Adiestramiento</span></a></li>
+<li><a href="https://www.expertoanimal.com/adiestramiento/educacion-basica"><span>Educación básica</span></a></li>
+<li>Consejos para educar perros</li>
+</ul>
+<article class="columna-post">
+<h1 class="titulo titulo--articulo">Consejos para educar perros</h1>
+<div class="info_articulo ">
+<div class="daticos">
+<a href="#comentarios" class="datico">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 90.20%"></div>
+</div>
+</div>
+<span class="votos">
+Valoración: 4,5 (93 votos)	</span>
+</a>
+<a href="#comentarios" class="datico">22 comentarios</a>
+<div class="datico nbsp">&nbsp;</div> </div>
+<div class="autor">
+<a rel="nofollow" class="img_autor ga" data-category="Post" data-event="go to autor" data-label="https://www.expertoanimal.com/autor/alejandro-martinez-37.html" href="https://www.expertoanimal.com/autor/alejandro-martinez-37.html"><img src="https://t2.ea.ltmcdn.com/es/fotos/7/3/0/img_37_50_square.jpg"></a>
+<div class="nombre_autor">
+Por <a rel="nofollow" class="ga" data-category="Post" data-event="go to autor" data-label="https://www.expertoanimal.com/autor/alejandro-martinez-37.html" href="https://www.expertoanimal.com/autor/alejandro-martinez-37.html">Alejandro Martínez</a>, Educador y adiestrador canino. <span class="date_publish">18 mayo 2016</span> </div>
+</div>
+</div>
+<div>
+<div class="intro">
+<div class="imagen_wrap ">
+<div class="imagen lupa" data-js-selector="imagen" data-posicion="0">
+<img src="https://t2.ea.ltmcdn.com/es/images/2/1/1/img_consejos_para_educar_perros_21112_600.jpg" alt="Consejos para educar perros">
+</div>
+</div>
+<div class="mini-ficha-raza apartado">
+<a class="ga" href="https://www.expertoanimal.com/razas-de-perros.html" data-category="Post" data-event="enlace a animal"><img src="https://t2.ea.ltmcdn.com/es/razas/9/4/7/img_749_aidi-o-perro-de-las-montanas-del-atlas_0_150_square.jpg"></a>
+<p>Ver fichas de <a class="ga" href="https://www.expertoanimal.com/razas-de-perros.html" data-category="Post" data-event="enlace a animal">Perros</a>
+</p>
+</div>
+<p><strong>Educar perros </strong>es una tarea sencilla cuando sabes c&oacute;mo hacerlo y cuando no tratas de apurar las cosas. Sin embargo, educar a un perro te puede parecer una tarea imposible si sigues los consejos incorrectos.</p><p>Actualmente existen dos l&iacute;neas principales de <strong>educaci&oacute;n canina</strong>, el adiestramiento tradicional y el adiestramiento en positivo. Aunque esos t&eacute;rminos a veces se usan de forma despectiva, en este art&iacute;culo de ExpertoAnimal simplemente se usan para indicar las diferencias entre estas l&iacute;neas de pensamiento sobre la educaci&oacute;n de los perros.</p><p>El adiestramiento canino tradicional est&aacute; basado principalmente en el refuerzo negativo y el castigo. Sin embargo, esto no significa que los adiestradores tradicionales golpeen a los perros, si se lleva a cabo de forma correcta quiere decir que en este tipo de educaci&oacute;n canina predominan las correcciones cuando el perro no responde de la manera esperada. Por su parte, el adiestramiento canino en positivo se basa principalmente en el refuerzo positivo para educar perros, aunque tambi&eacute;n utiliza otros medios para corregir las conductas inadecuadas.</p><p>El adiestramiento tradicional suele ser m&aacute;s duro y coercitivo que el adiestramiento positivo, por ello no recomendamos recurrir a &eacute;l si no somos profesionales. Sigue leyendo y descubre nuestros <strong>consejos para educar perros</strong>.</p>
+</div>
+<div class="recomendado-incrustado">
+<div class="texto">También te puede interesar: <a class="ga" data-category="Post" data-event="related incrustado" href="https://www.expertoanimal.com/consejos-para-educar-a-un-yorkshire-20292.html">Consejos para educar a un yorkshire</a>
+</div>
+</div>
+<div class="publibydfp ad mobile breakpoint_1" id='div-gpt-ad-1490621822506-6' data-client='27212193' data-dfp='ltm_mobile_roba_1' data-sizes='[300, 250]'>
+</div>
+<div class="publibydfp ad breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" id='div-gpt-ad-1490621822506-2' data-client='27212193' data-dfp='ltm_desktop_roba_1' data-sizes='[[336, 280],[300, 250]]'>
+</div>
+<div class="indice">
+<div class="titulo titulo--h3">Índice</div>
+<ol>
+<li><a href="#anchor_0">¿Educar perros o adiestrar perros?</a>
+</li>
+<li><a href="#anchor_1">Temas frecuentes en la educación de los perros</a>
+</li>
+<li><a href="#anchor_2">Cosas a tener en cuenta para educar perros</a>
+</li>
+</ol>
+</div>
+<h2 class="titulo titulo--h2 titulo--apartado" id="anchor_0">
+¿Educar perros o adiestrar perros?
+</h2>
+<div class="apartado">
+<p>Si has le&iacute;do alg&uacute;n libro de adiestramiento tradicional posiblemente te has encontrado con la dicotom&iacute;a entre <strong>educar perros y adiestrar perros</strong>. Hist&oacute;ricamente, en el adiestramiento tradicional se ha separado la educaci&oacute;n del cachorro del adiestramiento formal del perro joven y adulto. De acuerdo con esa diferenciaci&oacute;n, <a href="https://www.expertoanimal.com/educar-un-cachorro-paso-a-paso-21092.html">la educaci&oacute;n del cachorro</a> debe ser llevada de forma diferente al adiestramiento del perro adulto.</p><p>Esta dicotom&iacute;a se basa en dos hechos:</p><ol><li>Los cachorros no tienen la misma capacidad de atenci&oacute;n que los perros adultos.</li><li>Las herramientas del adiestramiento tradicional (<a href="https://www.expertoanimal.com/es-bueno-el-collar-de-ahorque-20961.html">collares de ahorque</a> y de p&uacute;as) pueden da&ntilde;ar con mucha facilidad el cuello de un cachorro.</li></ol><p>Sin embargo, <strong>en el adiestramiento positivo no se hace esa diferenciaci&oacute;n</strong>, ya que los m&eacute;todos empleados son efectivos para educar perros de cualquier edad. Adem&aacute;s, no se emplean collares de ahorque o de p&uacute;as, por lo que las herramientas utilizadas no pueden da&ntilde;ar a los cachorros. A pesar de esto, se reconoce la limitaci&oacute;n de atenci&oacute;n de los cachorros y no se tienen las mismas exigencias que para los perros adultos. Por otro ello, siempre recomendamos el uso del adiestramiento en positivo, puesto que con &eacute;l conseguiremos resultados efectivos sin la necesidad de da&ntilde;ar al animal o someterlo a situaciones desagradables para &eacute;l.</p>
+</div>
+<div class="publibydfp ad mobile breakpoint_1" id='div-gpt-ad-1490621822506-7' data-client='27212193' data-dfp='ltm_mobile_roba_2' data-sizes='[300, 250]'>
+</div>
+<div class="publibydfp ad breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" id='div-gpt-ad-1490621822506-3' data-client='27212193' data-dfp='ltm_desktop_roba_2' data-sizes='[[336, 280],[300, 250]]'>
+</div>
+<h2 class="titulo titulo--h2 titulo--apartado" id="anchor_1">
+Temas frecuentes en la educación de los perros
+</h2>
+<div class="apartado">
+<p>Aunque puedes ense&ntilde;ar a tu perro muchas cosas, existen temas frecuentes en la educaci&oacute;n de cualquier can. Estos temas incluyen los buenos modales de un perro de compa&ntilde;&iacute;a y la <a href="https://www.expertoanimal.com/ordenes-basicas-para-perros-8229.html">obediencia b&aacute;sica</a> que deber&iacute;a tener todo perro.</p><p>Los buenos modales caninos son necesarios para cualquier perro y comprenden lo que se puede denominar adiestramiento canino b&aacute;sico. Como norma general incluyen:</p><ul><li><a href="https://www.expertoanimal.com/socializar-a-un-cachorro-correctamente-20163.html"> La socializaci&oacute;n del perro </a></li><li>La inhibici&oacute;n de la mordida</li><li><a href="https://www.expertoanimal.com/como-ensenar-a-un-perro-a-ir-al-bano-20492.html">Educar al perro para ir al ba&ntilde;o</a></li><li>Educar al perro para usar la jaula de viajes</li><li><a href="https://www.expertoanimal.com/como-evitar-que-el-perro-salte-encima-de-las-personas-6607.html">Educar al perro para saludar adecuadamente a las personas</a></li><li><a href="https://www.expertoanimal.com/consejos-para-evitar-que-el-perro-tire-de-la-correa-4067.html">Ense&ntilde;ar al perro a usar el collar y la correa</a></li><li>Educar al perro para prestar atenci&oacute;n</li><li><a href="https://www.expertoanimal.com/5-errores-comunes-al-pasear-con-tu-perro-20823.html">Ense&ntilde;ar al perro a detenerse durante el paseo</a></li><li><a href="https://www.expertoanimal.com/evitar-que-el-perro-se-maree-en-el-coche-consejos-y-recomendaciones-6509.html">Educar al perro para ir en coche</a></li><li>Ense&ntilde;ar al perro a ignorar objetos</li><li><a href="https://www.expertoanimal.com/consejos-para-evitar-que-mi-perro-ladre-2504.html">Educar al perro para que controle los ladridos</a></li><li><a href="https://www.expertoanimal.com/consejos-para-evitar-que-el-perro-muerda-los-muebles-3530.html">Ense&ntilde;ar al perro a no morder los muebles</a></li></ul><p>Por su parte, la obediencia canina competitiva no es realmente necesaria para un perro de compa&ntilde;&iacute;a, pero puede ser de gran utilidad. De hecho, quienes han tenido un perro entrenado en obediencia no pueden concebir la idea de tener otro can sin ese tipo de adiestramiento. La obediencia canina b&aacute;sica comprende los siguientes ejercicios:</p><ul><li>Acudir a la llamada</li><li><a href="https://www.expertoanimal.com/ensenar-a-mi-perro-a-sentarse-paso-a-paso-20507.html">Sentado</a></li><li>&Eacute;chate</li><li>Quieto</li><li><a href="https://www.expertoanimal.com/ensenar-a-mi-perro-a-caminar-a-mi-lado-paso-a-paso-20517.html">Junto</a></li></ul>
+<div class="imagen_wrap">
+<div class="imagen lupa" data-js-selector="imagen" data-posicion="1">
+<img src="https://t1.ea.ltmcdn.com/es/images/2/1/1/img_consejos_para_educar_perros_21112_paso_1_600.jpg" alt="Consejos para educar perros - Temas frecuentes en la educación de los perros">
+</div>
+</div>
+</div>
+<div class="publibydfp ad mobile breakpoint_1" id='div-gpt-ad-1490621822506-8' data-client='27212193' data-dfp='ltm_mobile_roba_3' data-sizes='[300, 250]'>
+</div>
+<div class="publibydfp ad breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" id='div-gpt-ad-1490621822506-4' data-client='27212193' data-dfp='ltm_desktop_roba_3' data-sizes='[[336, 280],[300, 250]]'>
+</div>
+<h2 class="titulo titulo--h2 titulo--apartado" id="anchor_2">
+Cosas a tener en cuenta para educar perros
+</h2>
+<div class="apartado">
+<p>Si la finalidad de tu b&uacute;squeda es convertirte en un educador canino profesional, lo m&aacute;s recomendable es que consultes las escuelas que ofrecen cursos de adiestramiento y educaci&oacute;n canina para que te formes al completo y obtengas la titulaci&oacute;n necesaria para dedicarte a ello profesionalmente. Si, por el contrario, precisas de <strong>consejos para educar perros</strong> porque acabas de adoptar uno y buscas una peque&ntilde;a gu&iacute;a, los temas anteriores te ayudar&aacute;n a saber por d&oacute;nde empezar y qu&eacute; tener en cuenta. En paralelo a ello, deber&aacute;s tener presente las siguientes claves para obtener los mejores resultados:</p><ul><li><strong>Ten paciencia</strong>, educar perros requiere tiempo. Como ocurre con el proceso de aprendizaje en humanos, es preciso dedicar tiempo para conseguir que el animal interiorice las &oacute;rdenes o corrija las malas conductas.</li><li><strong>S&eacute; constante</strong>. Para obtener unos buenos resultados, la paciencia debe ir unida a la constancia. Si no realizas sesiones de entrenamiento de forma frecuente y marcando unos horarios, tu can jam&aacute;s interiorizar&aacute; las &oacute;rdenes. Con esto no queremos decir que debamos presionar al animal ni que tengamos que realizar sesiones excesivamente largas, de hecho ambas cosas con contraproducentes. Debemos hacer sesiones de 10 minutos como m&aacute;ximo y repetirlas de forma constante cada d&iacute;a.</li><li><strong>Fija las reglas desde el principio</strong>. Una vez establecidas las normas de educaci&oacute;n canina, no las cambies. Si convives con m&aacute;s personas, ser&aacute; fundamental que las hagas part&iacute;cipes e informes de las reglas marcadas para que todos eduqu&eacute;is al animal de la misma forma. Un ejemplo sencillo: si t&uacute; educas al perro para que aprenda a sentarse mediante la orden "Sienta" y otra persona emplea la palabra "Sentado", jam&aacute;s la aprender&aacute;.</li><li><a href="https://www.expertoanimal.com/el-refuerzo-positivo-en-perros-20281.html"><strong>Usa el refuerzo positivo</strong></a>. Un perro educado desde la amabilidad, que recibe felicitaciones y premios por la buena conducta, siempre aprender&aacute; mucho m&aacute;s r&aacute;pido.</li><li><strong>Divi&eacute;rtete con tu perro</strong>. Sin duda, otra de las claves para educar perros de forma efectiva es divertirnos con ellos mientras los adiestramos. Si el can nota que nos aburrimos o hemos convertido las sesiones de entrenamiento en una rutina que no nos despierta ning&uacute;n tipo de inter&eacute;s, lo percibir&aacute; y adoptar&aacute; la misma actitud. En este sentido, recomendamos <a href="https://www.expertoanimal.com/juegos-de-inteligencia-para-perros-en-casa-20836.html">practicar juegos con el perro</a> que, adem&aacute;s, refuercen vuestro v&iacute;nculo, estimulen su mente y fomenten el aprendizaje.</li></ul>
+<div class="imagen_wrap">
+<div class="imagen lupa" data-js-selector="imagen" data-posicion="2">
+<img src="https://t2.ea.ltmcdn.com/es/images/2/1/1/img_consejos_para_educar_perros_21112_paso_2_600.jpg" alt="Consejos para educar perros - Cosas a tener en cuenta para educar perros">
+</div>
+</div>
+</div>
+<div class="apartado">
+<p>Si deseas leer más artículos parecidos a <strong>Consejos para educar perros</strong>, te recomendamos que entres en nuestra sección de <a href="https://www.expertoanimal.com/adiestramiento/educacion-basica" class="ga" data-category="Post" data-event="categoria ultimo paso">Educación básica</a>.</p>
+</div>
+<div class="publibyadman ad mobile breakpoint_1 breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" id='div-adman-ad-6cd5eff8' data-slot='6cd5eff8'></div>
+</div>
+</article>
+<aside>
+<div class="relacionados" data-js-selector="related-aside">
+<div class="bloquegroup clear padding-left-1">
+<div class="bloque link ga" data-category="Post" data-event="related lateral" data-label="https://www.expertoanimal.com/como-educar-un-perro-boxer-20234.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 95.80%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="Cómo educar un perro bóxer" class="imagen " src="https://t2.ea.ltmcdn.com/es/images/4/3/2/img_como_educar_un_perro_boxer_20234_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/como-educar-un-perro-boxer-20234.html" class="titulo titulo--bloque">Cómo educar un perro bóxer</a>
+</div>
+<div class="bloque link ga" data-category="Post" data-event="related lateral" data-label="https://www.expertoanimal.com/como-educar-a-un-perro-sordo-23793.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 80.00%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="¿Cómo educar a un perro sordo?" class="imagen " src="https://t1.ea.ltmcdn.com/es/images/3/9/7/como_educar_a_un_perro_sordo_23793_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/como-educar-a-un-perro-sordo-23793.html" class="titulo titulo--bloque">¿Cómo educar a un perro sordo?</a>
+</div>
+<div class="bloque link ga" data-category="Post" data-event="related lateral" data-label="https://www.expertoanimal.com/como-educar-a-un-doberman-23043.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 100.00%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="¿Cómo educar a un dóberman?" class="imagen " src="https://t1.ea.ltmcdn.com/es/images/3/4/0/como_educar_a_un_doberman_23043_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/como-educar-a-un-doberman-23043.html" class="titulo titulo--bloque">¿Cómo educar a un dóberman?</a>
+</div>
+<div class="bloque link ga" data-category="Post" data-event="related lateral" data-label="https://www.expertoanimal.com/educar-a-un-bull-terrier-ingles-21093.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 96.80%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="Educar a un bull terrier inglés" class="imagen " src="https://t2.ea.ltmcdn.com/es/images/3/9/0/img_educar_a_un_bull_terrier_ingles_21093_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/educar-a-un-bull-terrier-ingles-21093.html" class="titulo titulo--bloque">Educar a un bull terrier inglés</a>
+</div>
+</div>
+</div>
+<div class="tags align-center" data-js-selector="tags">
+<div class="titulo titulo--linea"><div class="pastilla">Categorías relacionadas</div></div>
+<a class="tag ga" data-category="Post" data-event="tag" href="https://www.expertoanimal.com/adiestramiento/educacion-avanzada">Educación avanzada</a><a class="tag ga" data-category="Post" data-event="tag" href="https://www.expertoanimal.com/adiestramiento/deportes">Deportes</a><a class="tag ga" data-category="Post" data-event="tag" href="https://www.expertoanimal.com/adiestramiento/juegos-y-diversion">Juegos y Diversión</a><a class="tag ga" data-category="Post" data-event="tag" href="https://www.expertoanimal.com/adiestramiento/problemas-del-comportamiento">Problemas del comportamiento</a></div>
+<div class="tags" data-js-selector="top-views">
+<div class="titulo titulo--linea"><div class="pastilla">Lo más visto</div></div>
+<div class="topview"><div>1.</div><a class="ga" data-category="Post" data-event="topviews" href="https://www.expertoanimal.com/por-que-mi-gato-me-lame-y-despues-me-muerde-23183.html">¿Por qué mi gato me lame y después me muerde?</a></div><div class="topview"><div>2.</div><a class="ga" data-category="Post" data-event="topviews" href="https://www.expertoanimal.com/como-ensenar-a-un-perro-a-ir-al-bano-20492.html">¿Cómo enseñar a un perro a ir al baño?</a></div><div class="topview"><div>3.</div><a class="ga" data-category="Post" data-event="topviews" href="https://www.expertoanimal.com/por-que-mi-perro-se-orina-en-la-cama-23837.html">¿Por qué mi perro se orina en la cama?</a></div><div class="topview"><div>4.</div><a class="ga" data-category="Post" data-event="topviews" href="https://www.expertoanimal.com/por-que-mi-gato-orina-en-todas-partes-22234.html">¿Por qué mi gato orina en todas partes?</a></div><div class="topview"><div>5.</div><a class="ga" data-category="Post" data-event="topviews" href="https://www.expertoanimal.com/por-que-mi-perro-se-come-todo-lo-que-encuentra-20801.html">¿Por qué mi perro se come todo lo que encuentra?</a></div><div class="topview"><div>6.</div><a class="ga" data-category="Post" data-event="topviews" href="https://www.expertoanimal.com/por-que-mi-perro-ladra-a-algunas-personas-y-a-otras-no-23703.html">¿Por qué mi perro ladra a algunas personas y a otras no?</a></div><div class="topview"><div>7.</div><a class="ga" data-category="Post" data-event="topviews" href="https://www.expertoanimal.com/ordenes-basicas-para-perros-8229.html">Órdenes básicas para perros</a></div><div class="topview"><div>8.</div><a class="ga" data-category="Post" data-event="topviews" href="https://www.expertoanimal.com/como-educar-a-un-gato-desde-que-es-pequeno-20963.html">¿Cómo educar a un gato desde que es pequeño?</a></div></div>
+<div data-js-selector="promoted" class="publibydfp ad mobile breakpoint_1 breakpoint_1-5 breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" id='div-gpt-ad-ltm_desktop_promoted' data-client='27212193' data-dfp='ltm_desktop_promoted' data-sizes='[160, 80]'>
+</div>
+<div data-js-selector="pegajoso" class="publibydfp ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" id='div-gpt-ad-1490621822506-5' data-client='27212193' data-dfp='ltm_desktop_sky_1' data-sizes='[300, 600]'>
+</div>
+</aside>
+<div class="columna-post">
+<div class="relacionados bottom" data-js-selector="related-bottom">
+<div class="bloquegroup clear padding-left-1">
+<div class="bloque link ga" data-category="Post" data-event="related bottom" data-label="https://www.expertoanimal.com/como-educar-a-un-pomerania-23928.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 93.40%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="¿Cómo educar a un pomerania?" class="imagen loading" src="" data-imagen="https://t2.ea.ltmcdn.com/es/images/8/2/9/como_educar_a_un_pomerania_23928_300_150.jpg" data-imagen-2x="https://t2.ea.ltmcdn.com/es/images/8/2/9/como_educar_a_un_pomerania_23928_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/como-educar-a-un-pomerania-23928.html" class="titulo titulo--bloque">¿Cómo educar a un pomerania?</a>
+</div>
+<div class="bloque link ga" data-category="Post" data-event="related bottom" data-label="https://www.expertoanimal.com/como-educar-a-un-labrador-24775.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 95.00%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="¿Cómo educar a un labrador?" class="imagen loading" src="" data-imagen="https://t1.ea.ltmcdn.com/es/images/5/7/7/como_educar_a_un_labrador_24775_300_150.jpg" data-imagen-2x="https://t1.ea.ltmcdn.com/es/images/5/7/7/como_educar_a_un_labrador_24775_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/como-educar-a-un-labrador-24775.html" class="titulo titulo--bloque">¿Cómo educar a un labrador?</a>
+</div>
+<div class="bloque link ga" data-category="Post" data-event="related bottom" data-label="https://www.expertoanimal.com/cuando-puedo-empezar-a-educar-a-un-cachorro-22334.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 97.20%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="¿Cuándo puedo empezar a educar a un cachorro?" class="imagen loading" src="" data-imagen="https://t1.ea.ltmcdn.com/es/images/4/3/3/img_cuando_puedo_empezar_a_educar_a_un_cachorro_22334_300_150.jpg" data-imagen-2x="https://t1.ea.ltmcdn.com/es/images/4/3/3/img_cuando_puedo_empezar_a_educar_a_un_cachorro_22334_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/cuando-puedo-empezar-a-educar-a-un-cachorro-22334.html" class="titulo titulo--bloque">¿Cuándo puedo empezar a educar a un cachorro?</a>
+</div>
+<div class="bloque link ga" data-category="Post" data-event="related bottom" data-label="https://www.expertoanimal.com/como-educar-a-un-cachorro-21092.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 97.80%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="¿Cómo educar a un cachorro?" class="imagen loading" src="" data-imagen="https://t2.ea.ltmcdn.com/es/images/2/9/0/como_educar_a_un_cachorro_21092_300_150.jpg" data-imagen-2x="https://t2.ea.ltmcdn.com/es/images/2/9/0/como_educar_a_un_cachorro_21092_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/como-educar-a-un-cachorro-21092.html" class="titulo titulo--bloque">¿Cómo educar a un cachorro?</a>
+</div>
+<div class="bloque link ga" data-category="Post" data-event="related bottom" data-label="https://www.expertoanimal.com/consejos-para-la-educacion-higienica-del-cachorro-21182.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 90.00%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="Consejos para la educación higiénica del cachorro" class="imagen loading" src="" data-imagen="https://t2.ea.ltmcdn.com/es/images/2/8/1/img_consejos_para_la_educacion_higienica_del_cachorro_21182_300_150.jpg" data-imagen-2x="https://t2.ea.ltmcdn.com/es/images/2/8/1/img_consejos_para_la_educacion_higienica_del_cachorro_21182_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/consejos-para-la-educacion-higienica-del-cachorro-21182.html" class="titulo titulo--bloque">Consejos para la educación higiénica del cachorro</a>
+</div>
+<div class="bloque link ga" data-category="Post" data-event="related bottom" data-label="https://www.expertoanimal.com/consejos-para-adiestrar-a-un-american-bully-21784.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 94.80%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="Consejos para adiestrar a un american bully" class="imagen loading" src="" data-imagen="https://t2.ea.ltmcdn.com/es/images/4/8/7/img_consejos_para_adiestrar_a_un_american_bully_21784_300_150.jpg" data-imagen-2x="https://t2.ea.ltmcdn.com/es/images/4/8/7/img_consejos_para_adiestrar_a_un_american_bully_21784_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/consejos-para-adiestrar-a-un-american-bully-21784.html" class="titulo titulo--bloque">Consejos para adiestrar a un american bully</a>
+</div>
+<div class="bloque link ga" data-category="Post" data-event="related bottom" data-label="https://www.expertoanimal.com/consejos-para-adiestrar-a-un-schnauzer-22388.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 84.00%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="Consejos para adiestrar a un schnauzer" class="imagen loading" src="" data-imagen="https://t1.ea.ltmcdn.com/es/images/8/8/3/consejos_para_adiestrar_a_un_schnauzer_22388_300_150.jpg" data-imagen-2x="https://t1.ea.ltmcdn.com/es/images/8/8/3/consejos_para_adiestrar_a_un_schnauzer_22388_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/consejos-para-adiestrar-a-un-schnauzer-22388.html" class="titulo titulo--bloque">Consejos para adiestrar a un schnauzer</a>
+</div>
+<div class="bloque link ga" data-category="Post" data-event="related bottom" data-label="https://www.expertoanimal.com/educar-a-un-akita-americano-21019.html">
+<div class="position-imagen">
+<div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 94.60%"></div>
+</div>
+</div>
+<img data-pin-nopin="true" alt="Educar a un akita americano" class="imagen loading" src="" data-imagen="https://t1.ea.ltmcdn.com/es/images/9/1/0/img_educar_a_un_akita_americano_21019_300_150.jpg" data-imagen-2x="https://t1.ea.ltmcdn.com/es/images/9/1/0/img_educar_a_un_akita_americano_21019_300_150.jpg">
+</div>
+<a href="https://www.expertoanimal.com/educar-a-un-akita-americano-21019.html" class="titulo titulo--bloque">Educar a un akita americano</a>
+</div>
+</div>
+</div>
+<div class="comentarios" id="comentarios">
+<h2 class="titulo titulo--linea sin-margin-lateral"><div class="pastilla"> <strong>Escribir comentario sobre</strong> Consejos para educar perros </div></h2>
+<div>
+<form method="post" class="formulario" data-js-selector="formulario-comentario" data-id-respuesta="-1">
+<input type="hidden" name="id_post" data-js-selector="id_post" value="21112">
+<input type="hidden" name="id_respuesta" value="-1">
+<input type="hidden" name="id_categoria" value="21">
+<div data-js-selector="comentario-nombre-mail">
+<div class="columna izquierda">
+<div class="position-relative">
+<div class="error" data-js-selector="error-nombre"></div>
+<input type="text" class="input" name="nombre" placeholder="Nombre">
+</div>
+</div><div class="columna derecha">
+<div class="position-relative">
+<div class="error" data-js-selector="error-email"></div>
+<input type="email" class="input" name="email" placeholder="Correo electrónico (no se publicará)">
+</div>
+</div>
+</div>
+<div class="position-relative foto">
+<div class="error" data-js-selector="error-comentario"></div>
+<textarea name="comentario" placeholder="Comentario o pregunta"></textarea>
+<input class="adjunto" type="file" name="adjunto" data-js-selector="archivo_adjunto" data-portada="3" hidden="hidden"/>
+<div class="arrastrar" data-js-selector="comentario-adjunto" data-portada="3">
+<div class="error--arrastrar" data-js-selector="error-adjunto"></div>
+<div class="icono-camara" data-js-selector="icono-camara"></div>
+<div class="copy-tactil" data-js-selector="copy-tactil">Añade una imagen</div>
+<div class="copy-raton" data-js-selector="copy-raton">Haz clic para adjuntar una foto relacionada con tu comentario</div>
+</div>
+</div>
+<div class="rating">
+<div class="selector--starts">
+<input type="radio" name="rating" id="valoracion-null" class="valoracion" value="0" checked="checked"><label for="valoracion-null" style="display:none;"></label>
+<input type="radio" name="rating" id="valoracion-1" class="valoracion" value="1" onclick="$('#texto-valoracion').html($(this).data('texto'));" data-texto="No es útil"><label for="valoracion-1"></label>
+<input type="radio" name="rating" id="valoracion-2" class="valoracion" value="2" onclick="$('#texto-valoracion').html($(this).data('texto'));" data-texto="Más o menos"><label for="valoracion-2"></label>
+<input type="radio" name="rating" id="valoracion-3" class="valoracion" value="3" onclick="$('#texto-valoracion').html($(this).data('texto'));" data-texto="Normal"><label for="valoracion-3"></label>
+<input type="radio" name="rating" id="valoracion-4" class="valoracion" value="4" onclick="$('#texto-valoracion').html($(this).data('texto'));" data-texto="Útil"><label for="valoracion-4"></label>
+<input type="radio" name="rating" id="valoracion-5" class="valoracion" value="5" onclick="$('#texto-valoracion').html($(this).data('texto'));" data-texto="Muy útil"><label for="valoracion-5"></label>
+</div>
+<label class="label">Tu valoración:</label><span class="texto" id="texto-valoracion">
+¿Qué te ha parecido el artículo? </span>
+</div>
+<button type="button" data-js-selector="enviar_comentario" class="boton m" data-id-respuesta="-1">Enviar comentario</button>
+<input name="politica" id="politica_-1" type="checkbox"><label for="politica_-1">He leído y acepto la <a href="https://www.expertoanimal.com/index/politicadeprivacidad" rel="nofollow" data-js-selector="launch_popup">política de privacidad</a>
+</label>
+<label class="legal">Red Link To Media recopila los datos personales solo para uso interno. En ningún caso, tus datos serán transferidos a terceros sin tu autorización.<br>De acuerdo con la ley del 8 de diciembre de 1992, puedes acceder a la base de datos que contiene tus datos personales y modificar esta información en cualquier momento, poniéndote en contacto con Red Link To Media SL (<a href="mailto:info@linktomedia.net">info@linktomedia.net</a>)</label>
+</form>
+</div>
+<div class="titulo titulo--linea sin-margin-lateral"><div class="pastilla">22 comentarios</div></div>
+<div data-js-selector="append-comentarios">
+<div class="comentario" data-id-comment="707040">
+<div class="puntuacion"><small>Su valoración:</small> <div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 80.00%"></div>
+</div>
+</div></div>
+<a id="responder-707040"></a>
+<div class="imagen">
+</div>
+<div class="nombre">Jaime</div>
+<time class="fecha">24/06/2020</time>
+<div class="texto">
+CONSULTA.<br/>
+Tengo un pastor alemán de 8 años. Es como mi hijo, vivimos solos a la orilla del mar. Con poca, muy poca gente al rededor, aunque en verano hay más. <br/>
+LA CONSULTA: queremos tener una cachorrita. Qué opinas de una cachorrita de akita americano? son caracteres que funcionarán? <br/>
+Mi perro es muy dócil y tierno. Territorial y muy pegado a mi...<br/>
+<br/>
+Gracias<br/>
+</div>
+<div class="acciones">
+<div style="float:left;">
+<button type="button" class="boton xs" data-js-selector="responder" data-id-respuesta="707040">Responder</button>	</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="707040">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="707040">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="707040"></div>
+</div> <div class="comentario" data-id-comment="699626">
+<div class="puntuacion"><small>Su valoración:</small> <div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 80.00%"></div>
+</div>
+</div></div>
+<a id="responder-699626"></a>
+<div class="imagen">
+</div>
+<div class="nombre">ALEJANDRO</div>
+<time class="fecha">27/02/2020</time>
+<div class="texto">
+recién adquirí un cachorro rootweiler y quiero saber como adiestrarlo para no tener problemas de obediencia mas adelante, debido al fuerte carácter de esta raza.
+</div>
+<div class="acciones">
+<div style="float:left;">
+<button type="button" class="boton xs" data-js-selector="responder" data-id-respuesta="699626">Responder</button>	</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="699626">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="699626">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="699626"></div>
+<div class="respuestas desplegable active" data-js-selector="respuestas" data-id-respuesta="699626">
+<div class="comentario highlighted" data-id-comment="699879">
+<a id="responder-699879"></a>
+<a href="https://www.expertoanimal.com/autor/eva-lopez-3.html" rel="nofollow">	<div class="imagen">
+<img src="https://t1.ea.ltmcdn.com/es/fotos/3/0/0/img_3_50_square.jpg">
+</div>
+<div class="nombre">Eva López (Editor/a de ExpertoAnimal)</div>
+</a>	<time class="fecha">06/03/2020</time>
+<div class="texto">
+Hola Alejandro, te recomendamos revisar este artículo: <a href="https://www.expertoanimal.com/adiestramiento-del-rottweiler-20803.html">https://www.expertoanimal.com/adiestramiento-del-rottweiler-20803.html</a> Saludos
+</div>
+<div class="acciones">
+<div style="float:left;">
+</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="699879">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="699879">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="699879"></div>
+</div>	</div>
+</div> <div class="comentario" data-id-comment="662573">
+<a id="responder-662573"></a>
+<div class="imagen">
+</div>
+<div class="nombre">Pilar Barrera</div>
+<time class="fecha">24/07/2019</time>
+<div class="texto">
+FOX TERRIER PELO CORTO. CASI 4 MESES. SE VE FUERTE,. MUY LISTO. NO SE COMO ENSEÑARLO A ORINAR Y DEFECAR EN UN LUGAR. Y LO HACE DENTRO DE LA CASA.
+</div>
+<div class="acciones">
+<div style="float:left;">
+<button type="button" class="boton xs" data-js-selector="responder" data-id-respuesta="662573">Responder</button>	</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="662573">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="662573">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="662573"></div>
+<div class="respuestas desplegable active" data-js-selector="respuestas" data-id-respuesta="662573">
+<div class="comentario highlighted" data-id-comment="663134">
+<a id="responder-663134"></a>
+<a href="https://www.expertoanimal.com/autor/merce-garcia-4.html" rel="nofollow">	<div class="imagen">
+<img src="https://t1.ea.ltmcdn.com/es/fotos/4/0/0/img_4_50_square.jpg">
+</div>
+<div class="nombre">Mercè Garcia (Editor/a de ExpertoAnimal)</div>
+</a>	<time class="fecha">26/07/2019</time>
+<div class="texto">
+Hola Pilar, para enseñar a un cachorro a orinar en el exterior sigue este paso a paso: <a href="https://www.expertoanimal.com/como-ensenar-a-un-cachorro-a-hacer-sus-necesidades-en-la-calle-20161.html">https://www.expertoanimal.com/como-ensenar-a-un-cachorro-a-hacer-sus-necesidades-en-la-calle-20161.html</a>
+</div>
+<div class="acciones">
+<div style="float:left;">
+</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="663134">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="663134">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="663134"></div>
+</div>	</div>
+</div> <div class="comentario" data-id-comment="651799">
+<a id="responder-651799"></a>
+<div class="imagen">
+</div>
+<div class="nombre">Camelia</div>
+<time class="fecha">07/06/2019</time>
+<div class="texto">
+Hola. Tengo un meztizo de 3 años. Pues hace ya un tiempo que cada vez que lo dejamos solo en casa, hace pis. Lo saco fuera, hace sus cosas, lo traigo en casa y salgo a comprar pan. Cuando vuelvo ya ha hecho pos. Y eso pasa siempre que salimos y lo dejamos solo. Ya no se como actuar. Lo he regañado lo he castigado he pero da igual simpre lo hace. Me puede aconsejar en que debo hacer para conseguir que no mea en casa cada vez que salimos? Gracias
+</div>
+<div class="acciones">
+<div style="float:left;">
+<button type="button" class="boton xs" data-js-selector="responder" data-id-respuesta="651799">Responder</button>	</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="651799">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="651799">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="651799"></div>
+</div> <div class="comentario" data-id-comment="613088">
+<a id="responder-613088"></a>
+<div class="imagen">
+</div>
+<div class="nombre">Liliana</div>
+<time class="fecha">13/02/2019</time>
+<div class="texto">
+<img class="adjunto-comentario-thumbnail" src="https://t1.ea.ltmcdn.com/es/comentarios/2/1/1/consejos-para-educar-perros-613088_90.jpg" data-js-selector="adjunto-comentario-thumbnail" data-id-comment="613088"/>
+<img data-pin-nopin="true" class="adjunto-comentario-zoom" src="" data-src="https://t1.ea.ltmcdn.com/es/comentarios/2/1/1/consejos-para-educar-perros-613088_600.jpg" data-js-selector="adjunto-comentario-zoom" data-id-comment="613088" hidden="hidden">
+Holas una pregunta tengo un Samoyedo de 3 meses es muy lindo pero al jugar muerde muy duro y me da miedo con los niños q juegan con el, y también no sé q hacer porque sufre como de ansiedad q puedo hacer por fa
+</div>
+<div class="acciones">
+<div style="float:left;">
+<button type="button" class="boton xs" data-js-selector="responder" data-id-respuesta="613088">Responder</button>	</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="613088">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="613088">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="613088"></div>
+<div class="respuestas desplegable active" data-js-selector="respuestas" data-id-respuesta="613088">
+<div class="comentario highlighted" data-id-comment="613411">
+<a id="responder-613411"></a>
+<a href="https://www.expertoanimal.com/autor/eva-lopez-3.html" rel="nofollow">	<div class="imagen">
+<img src="https://t1.ea.ltmcdn.com/es/fotos/3/0/0/img_3_50_square.jpg">
+</div>
+<div class="nombre">Eva López (Editor/a de ExpertoAnimal)</div>
+</a>	<time class="fecha">14/02/2019</time>
+<div class="texto">
+Hola, ¿por qué consideras que sufre ansiedad? Para ello, te enviamos este artículo: <a href="https://www.expertoanimal.com/ansiedad-en-perros-sintomas-y-soluciones-23891.html">https://www.expertoanimal.com/ansiedad-en-perros-sintomas-y-soluciones-23891.html</a>. Sobre la mordida, te enviamos este otro: <a href="https://www.expertoanimal.com/que-hacer-si-mi-cachorro-muerde-demasiado-fuerte-22170.html">https://www.expertoanimal.com/que-hacer-si-mi-cachorro-muerde-demasiado-fuerte-22170.html</a>. Un saludo
+</div>
+<div class="acciones">
+<div style="float:left;">
+</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="613411">1</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="613411">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="613411"></div>
+</div>	</div>
+</div> <div class="comentario" data-id-comment="572058">
+<a id="responder-572058"></a>
+<div class="imagen">
+</div>
+<div class="nombre">Mariana</div>
+<time class="fecha">22/11/2018</time>
+<div class="texto">
+Hola, tengo 2 perras y a ambas les compramos casas iguales porque son de razas grandes. El problema es que después de un tiempo la segunda empezó a meterse a dormir en casa de la primera y la primera no se quiere meter a la casa de la segunda así que se queda afuera en donde se moja y pasa frío. Qué puedo hacer.
+</div>
+<div class="acciones">
+<div style="float:left;">
+<button type="button" class="boton xs" data-js-selector="responder" data-id-respuesta="572058">Responder</button>	</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="572058">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="572058">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="572058"></div>
+<div class="respuestas desplegable active" data-js-selector="respuestas" data-id-respuesta="572058">
+<div class="comentario highlighted" data-id-comment="572417">
+<a id="responder-572417"></a>
+<a href="https://www.expertoanimal.com/autor/eva-lopez-3.html" rel="nofollow">	<div class="imagen">
+<img src="https://t1.ea.ltmcdn.com/es/fotos/3/0/0/img_3_50_square.jpg">
+</div>
+<div class="nombre">Eva López (Editor/a de ExpertoAnimal)</div>
+</a>	<time class="fecha">23/11/2018</time>
+<div class="texto">
+Hola Mariana, lo más efectivo es utilizar el refuerzo positivo para motivar a la perra a entrar. Para ello, te aconsejamos seguir las recomendaciones de este artículo: <a href="https://www.expertoanimal.com/como-acostumbrar-a-un-perro-al-transportin-23054.html">https://www.expertoanimal.com/como-acostumbrar-a-un-perro-al-transportin-23054.html</a>. Aunque se hable de transportín, todos los consejos se pueden aplicar en otros espacios como una casita. Un saludo
+</div>
+<div class="acciones">
+<div style="float:left;">
+</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="572417">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="572417">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="572417"></div>
+</div>	</div>
+</div> <div class="comentario" data-id-comment="570872">
+<a id="responder-570872"></a>
+<div class="imagen">
+</div>
+<div class="nombre">aron</div>
+<time class="fecha">19/11/2018</time>
+<div class="texto">
+como puedo adiestrar a mi ejemplar es un bull terrier tiene fuerte caracter y me para mordiendo <br/>
+</div>
+<div class="acciones">
+<div style="float:left;">
+<button type="button" class="boton xs" data-js-selector="responder" data-id-respuesta="570872">Responder</button>	</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="570872">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="570872">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="570872"></div>
+<div class="respuestas desplegable active" data-js-selector="respuestas" data-id-respuesta="570872">
+<div class="comentario highlighted" data-id-comment="571403">
+<a id="responder-571403"></a>
+<a href="https://www.expertoanimal.com/autor/eva-lopez-3.html" rel="nofollow">	<div class="imagen">
+<img src="https://t1.ea.ltmcdn.com/es/fotos/3/0/0/img_3_50_square.jpg">
+</div>
+<div class="nombre">Eva López (Editor/a de ExpertoAnimal)</div>
+</a>	<time class="fecha">20/11/2018</time>
+<div class="texto">
+Hola, puedes consultar este artículo: <a href="https://www.expertoanimal.com/educar-a-un-bull-terrier-ingles-21093.html">https://www.expertoanimal.com/educar-a-un-bull-terrier-ingles-21093.html</a>. Un saludo
+</div>
+<div class="acciones">
+<div style="float:left;">
+</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="571403">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="571403">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="571403"></div>
+</div>	</div>
+</div> <div class="comentario" data-id-comment="423857">
+<div class="puntuacion"><small>Su valoración:</small> <div class="stars">
+<div class="total">
+<div class="valoracion" style="width: 100.00%"></div>
+</div>
+</div></div>
+<a id="responder-423857"></a>
+<div class="imagen">
+</div>
+<div class="nombre">Antonio Avila</div>
+<time class="fecha">19/05/2018</time>
+<div class="texto">
+Este es el Artículo que esta buscando :) Gracias ExpertoAnimal (Y)
+</div>
+<div class="acciones">
+<div style="float:left;">
+<button type="button" class="boton xs" data-js-selector="responder" data-id-respuesta="423857">Responder</button>	</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="423857">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="423857">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="423857"></div>
+</div> <div class="comentario" data-id-comment="291210">
+<a id="responder-291210"></a>
+<div class="imagen">
+</div>
+<div class="nombre">Diana Narváez</div>
+<time class="fecha">25/02/2018</time>
+<div class="texto">
+Me guataría recibir publicaciones en mi correo electrónico
+</div>
+<div class="acciones">
+<div style="float:left;">
+<button type="button" class="boton xs" data-js-selector="responder" data-id-respuesta="291210">Responder</button>	</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="291210">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="291210">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="291210"></div>
+<div class="respuestas desplegable active" data-js-selector="respuestas" data-id-respuesta="291210">
+<div class="comentario highlighted" data-id-comment="292361">
+<a id="responder-292361"></a>
+<a href="https://www.expertoanimal.com/autor/eva-lopez-3.html" rel="nofollow">	<div class="imagen">
+<img src="https://t1.ea.ltmcdn.com/es/fotos/3/0/0/img_3_50_square.jpg">
+</div>
+<div class="nombre">Eva López (Editor/a de ExpertoAnimal)</div>
+</a>	<time class="fecha">26/02/2018</time>
+<div class="texto">
+Hola Diana, actualmente no enviamos artículos de forma automática mediante correo electrónico. Si necesitas recibir algo específico, puedes pedirlo a info@expertoanimal.com. Un saludo
+</div>
+<div class="acciones">
+<div style="float:left;">
+</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="292361">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="292361">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="292361"></div>
+</div>	</div>
+</div> <div class="comentario" data-id-comment="251596">
+<a id="responder-251596"></a>
+<div class="imagen">
+</div>
+<div class="nombre">MARIA NIEVES</div>
+<time class="fecha">17/01/2018</time>
+<div class="texto">
+<img class="adjunto-comentario-thumbnail" src="https://t2.ea.ltmcdn.com/es/comentarios/2/1/1/consejos-para-educar-perros-251596_90.jpg" data-js-selector="adjunto-comentario-thumbnail" data-id-comment="251596"/>
+<img data-pin-nopin="true" class="adjunto-comentario-zoom" src="" data-src="https://t1.ea.ltmcdn.com/es/comentarios/2/1/1/consejos-para-educar-perros-251596_600.jpg" data-js-selector="adjunto-comentario-zoom" data-id-comment="251596" hidden="hidden">
+Tengo un mastin hembra de 1 año. Está en el campo, pero nada mas verme se me sube, o empuja por detrás. Le estoy cogiendo pánico, pues ya me ha tirado dos veces. ¿ Como le podia quitar esa costumbre de subirse ?<br/>
+</div>
+<div class="acciones">
+<div style="float:left;">
+<button type="button" class="boton xs" data-js-selector="responder" data-id-respuesta="251596">Responder</button>	</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="251596">1</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="251596">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="251596"></div>
+<div class="respuestas desplegable active" data-js-selector="respuestas" data-id-respuesta="251596">
+<div class="comentario highlighted" data-id-comment="252279">
+<a id="responder-252279"></a>
+<a href="https://www.expertoanimal.com/autor/eva-lopez-3.html" rel="nofollow">	<div class="imagen">
+<img src="https://t1.ea.ltmcdn.com/es/fotos/3/0/0/img_3_50_square.jpg">
+</div>
+<div class="nombre">Eva López (Editor/a de ExpertoAnimal)</div>
+</a>	<time class="fecha">18/01/2018</time>
+<div class="texto">
+Hola Maria Nieves, te enviamos un artículo con todos nuestros consejos: <a href="https://www.expertoanimal.com/como-evitar-que-el-perro-salte-encima-de-las-personas-6607.html">https://www.expertoanimal.com/como-evitar-que-el-perro-salte-encima-de-las-personas-6607.html</a>. ¡Un saludo!
+</div>
+<div class="acciones">
+<div style="float:left;">
+</div>
+<div style="float:right;">
+<button type="button" class="pulgar" data-js-selector="karma-positivo" data-id-comment="252279">0</button>
+<button type="button" class="pulgar" data-js-selector="karma-negativo" data-id-comment="252279">0</button>
+</div>
+</div>
+<div class="form-respuesta desplegable" data-js-selector="form-respuesta" data-id-respuesta="252279"></div>
+</div>	</div>
+</div> </div>
+<div class="spinner" data-js-selector="loading-comentarios" hidden="hidden">
+<div class="spin"></div>
+</div>
+<button class="boton m" data-js-selector="mas-comentarios" data-pagina="2">Quiero ver más comentarios</button>
+</div>
+<hr>
+<div data-js-selector="relacionados" class="relacionados"></div>
+<div class="spinner" data-js-selector="loading-relacionados" hidden="hidden">
+<div class="spin"></div>
+</div>
+<button class="boton l margin-bottom-3" data-js-selector="more_items_related">¡Quiero ver más artículos parecidos!</button>
+<input type="hidden" name="id_post" data-js-selector="id_post" value="21112">
+</div>
+<div class="barra-titulo-articulo" data-js-selector="barra_articulo">
+<div class="max_width">
+<div class="wrap_titulo-barra-articulo">Consejos para educar perros</div>
+<form id="buscador_secondary" class="search-form" action="https://www.expertoanimal.com/busqueda" method="GET" onsubmit="if ($('#q_secondary').val().length < 3) { alert('Con tan poquito no podemos saber lo que quieres, haz una búsqueda más larga.'); $('#q_secondary').focus(); GAevent('Header', 'short search', $('#q_secondary').val()); return false; } else { GAevent('Header', 'search', $('#q_secondary').val()) }">
+<fieldset>
+<input name="q" id="q_secondary" data-js-selector="q_secondary" class="input text search" placeholder="¿Qué estás buscando?"><button type="button" class="button search" onclick="if($('#q_secondary').val() == ''){$('#q_secondary').focus()} else { $('#buscador_secondary').submit();}"><img src="https://static.ea.ltmcdn.com/img/web/lupa.png"><span> Buscar</span></button>
+</fieldset>
+</form>
+</div>
+</div>
+<div class="bg-galeria" data-js-selector="galeria" data-total="3">
+<div class="galeria-table">
+<div class="galeria">
+<div class="publibydfp ad mobile breakpoint_1 breakpoint_1-5" id='div-gpt-ad-1490621822506-13' data-client='27212193' data-dfp='ltm_mobile_minilb_2' data-sizes='[320, 50]'>
+</div>
+<div class="max-width-1100">
+<div class="table">
+<div class="cell cell--publi publibydfp ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" id='div-gpt-ad-1490621822506-10' data-client='27212193' data-dfp='ltm_desktop_sky_2' data-sizes='[160, 600]'>
+</div>
+<div class="cell cell--img">
+<div class="anterior" data-js-selector="galeria-anterior"><div class="icono"></div></div>
+<div class="siguiente" data-js-selector="galeria-siguiente"><div class="icono"></div></div>
+<div class="imagen active" data-js-selector="imagen-galeria" data-posicion="0">
+<img src="" data-src="https://t1.ea.ltmcdn.com/es/images/2/1/1/img_consejos_para_educar_perros_21112_orig.jpg" data-js-selector="img-galeria" data-posicion="0">
+</div>
+<div class="imagen " data-js-selector="imagen-galeria" data-posicion="1">
+<img src="" data-src="https://t2.ea.ltmcdn.com/es/images/2/1/1/img_consejos_para_educar_perros_21112_paso_1_orig.jpg" data-js-selector="img-galeria" data-posicion="1">
+</div>
+<div class="imagen " data-js-selector="imagen-galeria" data-posicion="2">
+<img src="" data-src="https://t1.ea.ltmcdn.com/es/images/2/1/1/img_consejos_para_educar_perros_21112_paso_2_orig.jpg" data-js-selector="img-galeria" data-posicion="2">
+</div>
+</div>
+<div class="cell cell--publi publibydfp ad breakpoint_2 breakpoint_2-5 breakpoint_3 breakpoint_4" id='div-gpt-ad-1490621822506-11' data-client='27212193' data-dfp='ltm_desktop_sky_3' data-sizes='[160, 600]'>
+</div>
+</div>
+</div>
+<div class="contador">
+<div class="wrap_contador">
+<span class="posicion" data-js-selector="posicion-galeria">1</span> de <span class="total">3</span> </div>
+</div>
+<div class="titulo-galeria">Consejos para educar perros</div>
+<div class="cerrar" data-js-selector="galeria-cerrar"><div class="icono"></div></div>
+</div>
+</div>
+</div>
+<hr class="mobile">
+<ul class="breadcrumb mobile">
+<li><a href="https://www.expertoanimal.com"><span>ExpertoAnimal</span></a></li>
+<li><a href="https://www.expertoanimal.com/adiestramiento"><span>Adiestramiento</span></a></li>
+<li><a href="https://www.expertoanimal.com/adiestramiento/educacion-basica"><span>Educación básica</span></a></li>
+<li>Consejos para educar perros</li>
+</ul>
+<a class="ga back_top" href="#top" data-category="Post" data-event="back to top">Volver arriba<span class="up-arrow"></span></a>
+<div class="back_top_desktop"><span class="up-arrow"></span></div>
+</div>
+<footer>
+<div class="max_width columnas--2">
+<div class="clear">
+<div class="columna">
+<div class="titulo titulo--footer">Redes sociales</div>
+<div class="social margin-bottom-1">
+<a href="https://www.facebook.com/ExpertoAnimal" class="facebook follow-icon ga" target="_blank" rel="nofollow" data-category="Footer" data-event="go to social" data-label="facebook"></a>
+<a href="https://www.twitter.com/experto_animal" class="twitter follow-icon ga" target="_blank" rel="nofollow" data-category="Footer" data-event="go to social" data-label="twitter"></a>
+<a href="http://instagram.com/expertoanimal" class="instagram follow-icon ga" target="_blank" rel="nofollow" data-category="Footer" data-event="go to social" data-label="instagram"></a>
+<a href="https://www.youtube.com/channel/UCdSgT4-J2XSi658rUgG6nNg?sub_confirmation=1" class="youtube follow-icon ga" target="_blank" rel="nofollow" data-category="Footer" data-event="go to social" data-label="youtube"></a>
+<a href="https://es.pinterest.com/expertoanimal/" class="pinterest follow-icon ga" target="_blank" rel="nofollow" data-category="Footer" data-event="go to social" data-label="pinterest"></a>
+</div>
+</div>
+<div class="columna">
+<div class="titulo titulo--footer">Cerca de ti</div>
+<div class="grupo-enlaces">
+<a target="_blank" href="https://www.expertoanimal.com/espana/">España</a>
+</div>
+</div>
+</div>
+</div>
+<div class="subfooter">
+<div class="max_width">
+<a href="https://www.linktomedia.com" rel="nofollow" target="_blank" class="ltm-logo"><img src="https://static.ea.ltmcdn.com/img/web/ltm-logo.png"></a>
+<strong>&copy; expertoanimal.com</strong> <em>2020</em>
+<a class="ga" data-category="Footer" data-event="quienes somos" rel="nofollow" href="https://www.expertoanimal.com/quienes-somos">Quiénes somos</a>
+<a class="ga" data-category="Footer" data-event="contacta con nosotros" target="_blank" rel="nofollow" href="https://www.linktomedia.com/#Contacto">Contacta con nosotros</a>
+<a class="ga" data-category="Footer" data-event="terminos y condiciones" data-js-selector="launch_popup" target="_blank" href="https://www.expertoanimal.com/index/terminosycondiciones" rel="nofollow">Términos y Condiciones</a>
+<a class="ga" data-category="Footer" data-event="politica de privacidad" data-js-selector="launch_popup" target="_blank" href="https://www.expertoanimal.com/index/politicadeprivacidad" rel="nofollow">Política de privacidad</a>
+<a class="ga" data-category="Footer" data-event="politica de cookies" data-js-selector="launch_popup" target="_blank" href="https://www.expertoanimal.com/index/politicadecookies" rel="nofollow">Política de cookies</a>
+</div>
+</div>
+</footer>
+<div id="mediaquery"></div> </div>
+</div>
+<script type="text/javascript" async="true" src="https://static.ea.ltmcdn.com/js/js_expertoanimal_128.js"></script>
+<script type="text/javascript">
+    //<!--
+    repetidosRelatedJs = "20292,20234,23793,23043,21093,23928,24775,22334,21092,21182,21784,22388,21019,21112";    //-->
+</script>
+<script type="application/ld+json">
+    [{"@context":"http:\/\/schema.org\/","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.expertoanimal.com\/consejos-para-educar-perros-21112.html"},"headline":"Consejos para educar perros","description":"Educar perros es una tarea sencilla cuando sabes c\u00f3mo hacerlo y cuando no tratas de apurar las cosas. Sin embargo, educar a un perro te puede parecer una tarea imposible si sigues los consejos incorrectos.Actualmente existen dos l\u00edneas principales de educaci\u00f3n canina, el adiestramiento tradicional y el adiestramiento en positivo. Aunque esos t\u00e9rminos a veces se usan de forma despectiva, en este art\u00edculo de ExpertoAnimal simplemente se usan para indicar las diferencias entre estas l\u00edneas de pensamiento sobre la educaci\u00f3n de los perros.El adiestramiento canino tradicional est\u00e1 basado principalmente en el refuerzo negativo y el castigo. Sin embargo, esto no significa que los adiestradores tradicionales golpeen a los perros, si se lleva a cabo de forma correcta quiere decir que en este tipo de educaci\u00f3n canina predominan las correcciones cuando el perro no responde de la manera esperada. Por su parte, el adiestramiento canino en positivo se basa principalmente en el refuerzo positivo para educar perros, aunque tambi\u00e9n utiliza otros medios para corregir las conductas inadecuadas.El adiestramiento tradicional suele ser m\u00e1s duro y coercitivo que el adiestramiento positivo, por ello no recomendamos recurrir a \u00e9l si no somos profesionales. Sigue leyendo y descubre nuestros consejos para educar perros.","author":{"@type":"Person","name":"Alejandro Mart\u00ednez"},"image":["https:\/\/t1.ea.ltmcdn.com\/es\/images\/2\/1\/1\/img_consejos_para_educar_perros_21112_orig.jpg","https:\/\/t2.ea.ltmcdn.com\/es\/images\/2\/1\/1\/img_consejos_para_educar_perros_21112_600_square.jpg"],"datePublished":"2016-05-18T10:27:50Z","dateModified":"2016-05-18T10:27:50Z","publisher":{"@type":"Organization","name":"Expertoanimal.com","logo":{"@type":"ImageObject","url":"https:\/\/static.ea.ltmcdn.com\/img\/web\/expertoanimal\/logo\/jsonld\/es.png","width":323,"height":60}}},{"@context":"http:\/\/schema.org\/","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ExpertoAnimal","item":"https:\/\/www.expertoanimal.com"},{"@type":"ListItem","position":2,"name":"Adiestramiento","item":"https:\/\/www.expertoanimal.com\/adiestramiento"},{"@type":"ListItem","position":3,"name":"Educaci\u00f3n b\u00e1sica","item":"https:\/\/www.expertoanimal.com\/adiestramiento\/educacion-basica"}]}]
+</script></body>
+</html>
